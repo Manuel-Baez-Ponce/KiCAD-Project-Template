@@ -1,4 +1,4 @@
-View this project on [CADLAB.io](https://cadlab.io/project/29603). 
+<p align=rigth>View this project on [CADLAB.io](https://cadlab.io/project/29603).</p>
 
 <h1 align=center style='color: #26368E;'>KiCAD Project Templates</h1>
 
@@ -11,9 +11,9 @@ Project template directory/
 │ ├── A image of 64x64 pixels named icon.(jpg or png)  
 │ ├── The info.html archive with a resume of the project  
 │ └── Others complementary files and images  
-├── _.Kicad_pcb  
-├── _.kicad_pro  
-└── \*.kicad_sch
+├── *.Kicad_pcb  
+├── *.kicad_pro  
+└── *.kicad_sch
 
 Also the main directory is composed of the next templates:
 
