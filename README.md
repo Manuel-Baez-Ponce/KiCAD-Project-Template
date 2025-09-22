@@ -1,4 +1,4 @@
-<p align=rigth>View this project on [CADLAB.io](https://cadlab.io/project/29603).</p>
+View this project on [CADLAB.io](https://cadlab.io/project/29603).
 
 <h1 align=center style='color: #26368E;'>KiCAD Project Templates</h1>
 
