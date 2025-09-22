@@ -1,0 +1,7 @@
+ch32v307/
+
+*.txt
+*.zip
+*.svg
+*.kicad_prl
+*fp-info-cache
